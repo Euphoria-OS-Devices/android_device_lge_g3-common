@@ -16,6 +16,9 @@
 -->
 
 <resources>
+    <string name="download_url">http://forum.xda-developers.com/lg-g3/development/rom-euphoria-os-1-0-t3048515</string>
+    <string name="xda_url">http://forum.xda-developers.com/lg-g3/development/rom-euphoria-os-1-0-t3048515</string>
+    <string name="xda_summary">Visit the LG G3 XDA thread!</string>
     <string name="changelog_url">https://www.dropbox.com/s/8n1yeubcokpmcoz/g3_changelog.txt?raw=1</string>
     <string name="xml_url_kitkat">https://www.dropbox.com/s/2nb79tnorx18ugw/ota.xml?raw=1</string>
 </resources>
